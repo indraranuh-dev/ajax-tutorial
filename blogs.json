@@ -5,7 +5,7 @@
     },
     {
         "type": "database",
-        "name": "laravel_auth"
+        "name": "tutorial_ajax"
     },
     {
         "type": "table",
