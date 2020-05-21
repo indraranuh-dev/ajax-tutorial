@@ -1,0 +1,256 @@
+[{
+        "type": "header",
+        "version": "4.9.1",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "laravel_auth"
+    },
+    {
+        "type": "table",
+        "name": "blogs",
+        "database": "laravel_auth",
+        "data": [{
+                "id": "1",
+                "title": "Ea accusamus et tempore.",
+                "body": "Nam officia qui provident at. Suscipit aspernatur aut modi et amet ut.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:34",
+                "updated_at": "2020-05-13 19:00:34"
+            },
+            {
+                "id": "2",
+                "title": "Ut aut ad provident et nemo.",
+                "body": "Recusandae aut magni molestiae aut rerum porro. Porro aliquid dignissimos odit aut dolor. Aliquid rerum sint et. Laborum eveniet facere culpa aut nam.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:34",
+                "updated_at": "2020-05-13 19:00:34"
+            },
+            {
+                "id": "3",
+                "title": "Cum alias et ut incidunt.",
+                "body": "Commodi aut nemo quia omnis. Exercitationem inventore ipsa temporibus nostrum.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:34",
+                "updated_at": "2020-05-13 19:00:34"
+            },
+            {
+                "id": "4",
+                "title": "Atque quidem dolorem qui cum.",
+                "body": "Itaque et dolor sit id. Reprehenderit labore ea eum harum officiis eius. Facilis ipsum pariatur et unde ut. Impedit enim aut ut eos tempora.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:34",
+                "updated_at": "2020-05-13 19:00:34"
+            },
+            {
+                "id": "5",
+                "title": "Quibusdam sed minus maxime.",
+                "body": "Maxime unde ea esse illo eligendi non. Neque consequatur atque aut quia. Est error praesentium voluptatibus illum optio numquam beatae.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:34",
+                "updated_at": "2020-05-13 19:00:34"
+            },
+            {
+                "id": "6",
+                "title": "Velit dolores in eaque alias.",
+                "body": "Quidem non neque non aut sequi ut porro. Impedit et consequatur non quis dignissimos sit.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "7",
+                "title": "Omnis rerum soluta in vero.",
+                "body": "Rerum asperiores nisi aperiam natus vel et dolorum. Vel a doloribus occaecati molestias ut veritatis minima. Dolor esse quos voluptatibus saepe. Qui eos expedita molestiae minus sed.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "8",
+                "title": "Deserunt aut nulla accusamus.",
+                "body": "Et ut vitae possimus molestias qui autem. Ipsum consectetur quas et praesentium qui fuga incidunt. Accusamus blanditiis in ipsum labore provident soluta qui.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "9",
+                "title": "Deleniti eveniet velit est.",
+                "body": "Quia repellat illo temporibus reprehenderit cum ipsum ut. Voluptatem dolores suscipit doloremque sed. Dolores reprehenderit rerum rem. Amet quas quod dolor dolore aspernatur omnis.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "10",
+                "title": "Aut nihil in qui sit.",
+                "body": "Dolores ut sint sint rerum voluptatem harum facere numquam. Et dolorem voluptatem nobis. Nam pariatur praesentium voluptatem aliquam officiis et modi enim.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "11",
+                "title": "Dolorem et iste iure aperiam.",
+                "body": "Earum perferendis quia velit vel voluptas nisi. Est veritatis magnam harum sed. Consectetur magnam laboriosam a voluptate. Suscipit architecto hic mollitia repellendus dignissimos quo.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "12",
+                "title": "Et illo quia laborum ut.",
+                "body": "Provident sequi iste ut porro non corporis. At dignissimos voluptas dolorem. Omnis reiciendis nihil eos sint.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "13",
+                "title": "Veniam facere fugiat quas ut.",
+                "body": "Quisquam quam et iusto omnis modi ad. Aut voluptas reiciendis qui quo voluptate. Suscipit enim est enim rerum. Blanditiis et deserunt soluta repudiandae repellendus.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "14",
+                "title": "Omnis saepe quia natus.",
+                "body": "Sit nostrum impedit ea enim ut. Consequatur rerum est facere aut ea earum assumenda aut. Repellendus rem at enim dolor excepturi quia adipisci.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "15",
+                "title": "Odio et id et ut.",
+                "body": "Sit occaecati est reiciendis voluptatum ipsa mollitia. Molestias velit sit doloremque delectus odit. Voluptatibus error ut eum quis et.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "16",
+                "title": "Minus officiis unde aut.",
+                "body": "Excepturi quia accusamus omnis inventore eum natus illum ut. Sit pariatur voluptatem possimus. Illo id aut rerum quia.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "17",
+                "title": "Quo molestiae earum ipsum.",
+                "body": "Iusto aut quas id incidunt. Dolores qui autem ut. Ut odio accusantium vitae soluta doloremque delectus.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "18",
+                "title": "Maiores nam quia dolor.",
+                "body": "Veritatis molestias laborum corporis dolorum quos. Non error rerum et adipisci et. Perspiciatis sint neque molestias voluptatem voluptates sit sed. Numquam alias harum recusandae est.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "19",
+                "title": "In et dolores nobis fugit.",
+                "body": "Qui saepe totam omnis totam ducimus. Minima vel dolorem corrupti inventore. Error excepturi enim laboriosam magni sit ut architecto. Aut blanditiis beatae sed deserunt rerum.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "20",
+                "title": "Sequi illum velit rerum.",
+                "body": "Voluptas rerum sit molestiae numquam. Iste autem eos asperiores natus. Accusamus eligendi voluptatem ex incidunt. Saepe consequatur iste sunt dicta.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "21",
+                "title": "Et sed aut enim quam.",
+                "body": "Cupiditate itaque perferendis fugiat mollitia soluta maiores voluptas velit. Dolores ipsum ratione aut aspernatur est expedita. Quasi qui ut voluptas molestias.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "22",
+                "title": "Cum quidem ut et cum.",
+                "body": "Distinctio sunt veritatis ut vero. Exercitationem et mollitia itaque. Autem laboriosam eligendi id animi quas est omnis.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "23",
+                "title": "Et omnis qui odit sed.",
+                "body": "Quibusdam a excepturi sed consequatur est. Ipsa harum iste non consectetur vel sequi. Officiis ipsum voluptate illo cupiditate qui.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "24",
+                "title": "Temporibus quo ad culpa.",
+                "body": "Sit ex quod suscipit cumque ipsam totam doloribus. Repudiandae ut labore dolore. Aperiam occaecati fugiat molestiae.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "25",
+                "title": "Delectus eius ut aperiam eum.",
+                "body": "Ad et temporibus ut aspernatur. Recusandae odio nobis cumque. Corporis nulla esse sed possimus aperiam animi. Voluptas dicta aliquid consequatur.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "26",
+                "title": "Nostrum ipsa est tempora.",
+                "body": "Ad iusto nihil enim numquam. Rerum aut cupiditate recusandae qui non praesentium autem qui. Sit ut laudantium est nulla.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:35",
+                "updated_at": "2020-05-13 19:00:35"
+            },
+            {
+                "id": "27",
+                "title": "Est omnis consequatur ea.",
+                "body": "Quo optio voluptatibus nihil vel molestiae. Magni perspiciatis saepe voluptas eum quam sint est. Corrupti sapiente et omnis quia. Delectus soluta nesciunt rem maxime labore error.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:36",
+                "updated_at": "2020-05-13 19:00:36"
+            },
+            {
+                "id": "28",
+                "title": "Ab natus error et voluptas.",
+                "body": "Atque nostrum odit magni assumenda nihil. Architecto officiis quod suscipit illum autem. Soluta repudiandae culpa tempore vel earum. Ut veniam provident non dolorem non iste sapiente.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:36",
+                "updated_at": "2020-05-13 19:00:36"
+            },
+            {
+                "id": "29",
+                "title": "Unde eos repellat at.",
+                "body": "Provident aut perspiciatis officiis libero rerum. Vel neque facere aliquid aliquam incidunt voluptatem.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:36",
+                "updated_at": "2020-05-13 19:00:36"
+            },
+            {
+                "id": "30",
+                "title": "Non sed blanditiis et.",
+                "body": "Consequatur nihil optio autem voluptas cum. At voluptate voluptatem quia perspiciatis. Laboriosam similique veritatis consequatur est nobis sit aut.",
+                "author": "Anonymous",
+                "created_at": "2020-05-13 19:00:36",
+                "updated_at": "2020-05-13 19:00:36"
+            }
+        ]
+    }
+]
